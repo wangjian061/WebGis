@@ -12,7 +12,7 @@
 
 *因为是第一次写MarkDown的排版，所以这里简单记录一下MarkDown的规则*
 
-## Atom种书写MarkDown
+## Atom中书写 MarkDown
 
 #标题样式
 
@@ -24,7 +24,7 @@
 
 *加粗
 
-*加粗段鸾*
+*加粗段落*
 
 键入I生成两个*就是段落加粗
 
@@ -41,17 +41,26 @@
 
 键入l
 
+
 快捷生成文字连接类似下划
+
 
 [github](www.github.com)
 
+
 键入legal
 
+
 Copyright (c) 2015 Copyright Holder All Rights Reserved.
+
 
 三个*一条分割线
 
 ***
+
+三个=一条细的分割线
+
+======================
 
 键入table表格
 
